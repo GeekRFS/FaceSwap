@@ -7,6 +7,8 @@ USDT(ERC-20): 0x1bdf71152885e61ca8d36ea0ff053fcfb968c53f
 Real-time face swapping for webcams.
 Supports **NVIDIA**, **AMD**, and **Intel** GPUs via **DirectX 12**.
 
+<img width="1200" height="787" alt="image" src="https://github.com/user-attachments/assets/64c611f5-40c8-4077-8755-bfdcb89b44ec" />
+
 ---
 
 ## Quick Start
