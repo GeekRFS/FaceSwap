@@ -1,5 +1,6 @@
 SUPPORT ME:
-  -USDT(ERC-20): 0x1bdf71152885e61ca8d36ea0ff053fcfb968c53f
+
+USDT(ERC-20): 0x1bdf71152885e61ca8d36ea0ff053fcfb968c53f
 
 # FaceSwap
 
